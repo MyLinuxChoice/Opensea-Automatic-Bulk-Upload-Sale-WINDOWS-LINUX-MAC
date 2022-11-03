@@ -5,7 +5,7 @@
 <h4 align="center">⭐️MOST ADVANCED OPENSEA TRADE BOT support (BINANCE & COINBASE API)⭐️</h4>
 
 <h4 align="center">⭐️DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ON NFTs⭐️</h4>
-  
+   
 ![alt text](https://github.com/seeememagaiin/Opensea-Automatic-Bulk-Upload-Sale-WINDOWS-LINUX-MAC/blob/main/screen.png?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
