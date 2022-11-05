@@ -25,7 +25,7 @@
 
 <h2>Table of contents - <a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki">Documentation</a> - <i><a href="https://www.youtube.com/watch?v=DdqGEz0BCQ8">Complete tutorial</a></i> <img src="https://user-images.githubusercontent.com/91475935/187707252-3a304735-6a88-46c4-8c17-af882eb8b4bd.png" height="16px" /></h2>
 
-<ul>
+<ul> 
 <li><strong><a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki/Home#introduction">Introduction</a>, what does this bot do and how does it works?</strong></li>
 <li><strong><a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki/Home#frequently-asked-questions">Frequently Asked Questions</a> about the creation of the metadata file and reCAPTCHA solver services.</strong></li>
 <li><strong><a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki/Installation-and-configuration">Installation and configuration</a> of Python, the required modules and the bot.</strong></li>
