@@ -1,5 +1,5 @@
 <h2 align="center">⭐️Opensea Automatic Bulk Upload & sale (WINDOWS LINUX MAC)⭐️</h2> 
- 
+  
 <h2 align="center">⭐️Support All NETWORK ETH BSC POLYGON SOLANA⭐️</h2> 
     
 <h4 align="center">⭐️MOST ADVANCED OPENSEA TRADE BOT support (BINANCE & COINBASE API)⭐️</h4>
