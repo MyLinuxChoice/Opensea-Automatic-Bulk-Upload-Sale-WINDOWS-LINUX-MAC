@@ -20,7 +20,7 @@
 <br />All metadata integrated - Ethereum and Polygon supported - reCAPTCHA solver services included.</i>
 <br><strong><a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki/Changelog">Version 1.12.9</a> (October 14, 2022).</strong></p>
      
- 
+  
 <div align="center"><hr width="30%" /></div>
 
 <h2>Table of contents - <a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki">Documentation</a> - <i><a href="https://www.youtube.com/watch?v=DdqGEz0BCQ8">Complete tutorial</a></i> <img src="https://user-images.githubusercontent.com/91475935/187707252-3a304735-6a88-46c4-8c17-af882eb8b4bd.png" height="16px" /></h2>
