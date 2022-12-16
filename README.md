@@ -15,7 +15,7 @@
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 <h1 align="center">Automatically and massively upload and list your non-fungible tokens on the OpenSea marketplace using Python Selenium.</h1>
-
+ 
 <p align="center"><i>A Selenium Python bot to automatically and bulky upload and list your NFTs on OpenSea.
 <br />All metadata integrated - Ethereum and Polygon supported - reCAPTCHA solver services included.</i>
 <br><strong><a href="https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale/wiki/Changelog">Version 1.12.9</a> (October 14, 2022).</strong></p>
